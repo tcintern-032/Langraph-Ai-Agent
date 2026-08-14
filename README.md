@@ -27,7 +27,7 @@ The main example uses two tools:
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```text
 multi-step-ai-agent/
@@ -337,7 +337,7 @@ The weather information is retrieved at runtime.
 
 ---
 
-# ❌ Error Handling
+# Error Handling
 
 The application handles tool errors gracefully.
 
@@ -443,7 +443,7 @@ This creates the multi-step loop.
 
 ---
 
-# 🔄 Conversation History
+# Conversation History
 
 The project uses LangGraph checkpointing:
 
@@ -566,7 +566,7 @@ Agent
 
 ---
 
-# 🧩 File Responsibilities
+# File Responsibilities
 
 ## `state.py`
 
@@ -623,7 +623,7 @@ Runs the application and provides the command-line interface.
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 ```text
                     ┌──────────────────┐
